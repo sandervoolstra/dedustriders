@@ -347,6 +347,7 @@ img {
 }
 .navbar-custom .avatar-container .avatar-img {
   width: 100%;
+  background-color: #fff;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
   {% endunless %}
