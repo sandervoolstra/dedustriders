@@ -9,3 +9,6 @@ Text here
 ### Our bikes
 
 Some info on our bikes
+
+
+![Our Bikes](assets/img/bikeswashed.jpg)
