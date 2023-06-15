@@ -20,10 +20,12 @@ author: Evert & Sander
 ###############################################
 
 navbar-links:
+  Home: "index.html"
   About Us: "aboutus"
   Route: "route"
   Bikes: "bikes"
     - Nog een menu optie: "https://google.com"
+  Photos: "photos"
   Contact: "contact"
 
 ################
