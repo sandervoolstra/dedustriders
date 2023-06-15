@@ -24,7 +24,7 @@ navbar-links:
   Route: "route"
   Bikes: "bikes"
   About Us: "aboutus"
-  Contact: "contact"
+  Contact Us: "contact"
 
 ################
 # --- Logo --- #
