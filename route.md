@@ -1,11 +1,20 @@
 ---
 layout: page
-title: About us
-subtitle: 
+title: Route
+subtitle: going down south
 ---
 
-Text here
+This is our planned route.
 
-### Our story
+### Our route
 
-Not really a story
+Going down south from Morocco to South-Africa
+
+### Starting point
+Morocco
+
+### Challenges
+Nigeria
+
+### End point
+Cape town
