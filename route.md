@@ -6,15 +6,12 @@ subtitle: going down south
 
 ### Our route
 
-Going down south from Morocco to South-Africa:
+This is roughly our route, going down south:
 
 ![Route](/assets/img/route.jpg)
 
-### Starting point
+#### Starting point
 Morocco
 
-### Challenges
-Nigeria
-
-### End point
-Cape town
+#### End point
+Cape Town
