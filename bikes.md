@@ -26,6 +26,3 @@ Both bikes got the common upgrades to make them suitable for the trip:
 - Changed all lights to LED
 - 40F0 exhausts
 - Lithium battery
-
-
-![Our Bikes](assets/img/thebikes.jpg)
