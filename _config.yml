@@ -20,10 +20,11 @@ author: Evert & Sander
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
+  Home: "home"
   Route: "route"
   Bikes: "bikes"
-  Photos: "photos"
+  About Us: "aboutus"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
