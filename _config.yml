@@ -20,7 +20,7 @@ author: Evert & Sander
 ###############################################
 
 navbar-links:
-  Home: "home"
+  Home: "index.html"
   Route: "route"
   Bikes: "bikes"
   About Us: "aboutus"
