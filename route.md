@@ -4,8 +4,6 @@ title: Route
 subtitle: going down south
 ---
 
-This is our planned route.
-
 ### Our route
 
 Going down south from Morocco to South-Africa:
