@@ -8,7 +8,9 @@ This is our planned route.
 
 ### Our route
 
-Going down south from Morocco to South-Africa
+Going down south from Morocco to South-Africa:
+
+![Route](/assets/img/route.jpg)
 
 ### Starting point
 Morocco
