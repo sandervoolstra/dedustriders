@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About us
-subtitle: 
+title: Our bikes
+subtitle: Suzuki DR650SE
 ---
 
 Text here
 
-### Our story
+### Our bikes
 
-Not really a story
+Some info on our bikes
