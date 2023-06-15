@@ -11,4 +11,4 @@ Text here
 Some info on our bikes
 
 
-![Our Bikes](assets/img/bikeswashed.jpg)
+![Our Bikes](assets/img/thebikes.jpg)
